@@ -67,3 +67,5 @@ In April of 2017, I ended up finding one which looked like it was ready to go - 
 I flew out to Oakland the next week on a $75-dollar flight. When I got to see the car in person and as I started to get to know the car, two things became pretty clear to me:
 - the photos were hiding a lot of problems
 - I had a lot to learn about these cars
+
+[Continue to next post: 'What did I get myself into?'](/project/2019/10/23/inspection.html)

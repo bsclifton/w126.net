@@ -84,3 +84,5 @@ there's almost no place which will repair this kind of damage (WSI wouldn't touc
 
 ## Thoughts
 At this point, the car is perfectly drivable and enjoyable. There are still a lot of things to fix, which can seem really overwhelming at times, but having it all documented helps.
+
+[Read previous post: 'Buying a classic'](/project/2019/08/04/coupe-purchase.html)
