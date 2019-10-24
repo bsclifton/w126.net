@@ -23,15 +23,15 @@ and had three pages of notes by the time I got home.
 - With A/C on, no air is coming out from center vents. The other vents seem to work and have good air flow.
 - Lots of the wood has fading and cracks.
 - Needs to have some leaks fixed; oil leak from rear main seal area and it seems the transmission and steering box are leaking too.
-- There is a power draw somewhere- the current suspect is the circuit that handles the dome light, clock, antennae etc also was handling the amp in the trunk. Car battery will go dead if it sits there without being turned on for about 2 or 3 days.
+- There is a power draw somewhere- the circuit that handles the dome light, clock, antennae, etc is suspect as it's also handling the amp in the trunk. Car battery will go dead if it sits there without being turned on for about 2 or 3 days.
 - Chrome trim which attaches to the rear passenger window (basically the B pillar) has a dent in it and looks to have rust.
 - Trunk doesn't always open.
-- Passenger door locks/unlocks both doors + trunk. But drivers side and trunk doesn't.
+- Passenger door locks/unlocks both doors + trunk. But driver's side and trunk do not.
 - Belt for A/C broke on the drive home. Others look very worn.
-- No owners manual, fuse chart, or other documentation.
+- No owner's manual, fuse chart, or other documentation.
 - Seat belt presenter for passenger side would move by itself, seemingly at random.
-- Rear roller blind (sun shade) doesn't work.
-- An aftermarket alarm was installed (on top of the built in alarm). This went right into the trash!
+- Rear roller blind (sunshade) doesn't work.
+- An aftermarket alarm was installed (on top of the built-in alarm). This went right into the trash!
 - and more
 
 ### Some of the happier notes
@@ -39,7 +39,7 @@ and had three pages of notes by the time I got home.
 - Color is paint code 199; by far my favorite!
 - Does NOT have the ASR option (Acceleration Slip Regulation; early version of Electronic Stability Control).
 - Has rear roller blind (which unfortunately needs repair).
-- Authentic 3 piece AMG wheels!
+- Authentic 3-piece AMG OZ wheels!
 - Great body; no rust.
 - No cracks on dash.
 - Sunroof works.
@@ -52,7 +52,7 @@ and had three pages of notes by the time I got home.
 ## Taking the car to the pros
 
 Before taking the car anywhere, I cleaned the car up a bit. Got it washed, took all the floor mats out, took all the trash out from under the seats and in the trunk.
-During this process, you might find some interesting things and also documentation. Unfortunately, this car didn't have the owners manual or original data card. But
+During this process, you might find some interesting things and also documentation. Unfortunately, this car didn't have the owner's manual or original data card. But
 many older Mercedes-Benz will have a smaller copy of the data card under one of the rear seats, which I did find (and carefully removed). While cleaning under the seats,
 I found pieces of broken glass, likely from a broken side window. This could be related to the dent I found on the passenger side rear window.
 
@@ -60,7 +60,7 @@ I found pieces of broken glass, likely from a broken side window. This could be 
 
 ### First look
 I brought the car over to my friend Bud's shop (MB Motors) in Phoenix and we looked over it together. Given the purchase price ($8,500) and the problems noted, it's fair to say I didn't score a deal.
-But this is a classic and is has the exact options I want (last model year, great color, rear roller blind, no ASR, AMG 3 piece wheels).
+But this is a classic and is has the exact options I want (last model year, great color, rear roller blind, no ASR, AMG 3-piece wheels).
 
 Bud got the oil changed, replaced fuses, and replaced all the belts. If you don't have a record of when a maintenance item was done and it's fairly cheap to do,
 I always think it's a good idea to address. He also fixed problem with the door/trunk actuators that had weird behavior and replaced the fuel pump relay which
@@ -76,11 +76,11 @@ Curtis got the wheels off and we got to take a good look
 - The tires on the rear were way too big, had a 15mm spacer, and lugs were too short (could come loose at any time).
 - The front passenger barrel was in bad shape and was unsafe. We swapped it out for the spare wheel for now.
 
-After replacing the rear tires with 275/40's, shaving the spacer down a bit, putting new lugs, the car was driving much nicer. I found a company in Europe called tunershop which had parts for these wheels
-and I got a replacement barrel for the one that was cracked.
+After replacing the rear tires with 275/40's, shaving the spacer down a bit, putting new lugs, the car was driving much nicer. I found a company called [tunershop](https://www.tunershop.com/)
+which had parts for these wheels and I got a replacement barrel for the one that was cracked.
 
 When I got the new barrel in and went to WSI to replace, we noticed that all four of the wheels themselves had cracks in the center pieces, near where the lugs go in. Unfortunately,
 there's almost no place which will repair this kind of damage (WSI wouldn't touch it and I don't blame them). Realistically, I could keep driving on these, but eventually it's going to give out.
 
 ## Thoughts
-At this point, the car is perfectly driveable and enjoyable. There are still a lot of things to fix, which can seem really overwhelming at times, but having it all documented helps.
+At this point, the car is perfectly drivable and enjoyable. There are still a lot of things to fix, which can seem really overwhelming at times, but having it all documented helps.
