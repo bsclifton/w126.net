@@ -60,7 +60,7 @@ I found pieces of broken glass, likely from a broken side window. This could be 
 
 ### First look
 I brought the car over to my friend Bud's shop (MB Motors) in Phoenix and we looked over it together. Given the purchase price ($8,500) and the problems noted, it's fair to say I didn't score a deal.
-But this is a classic and is has the exact options I want (last model year, great color, rear roller blind, no ASR, AMG 3-piece wheels).
+But this is a classic and is has the exact options I want (last model year, great color, rear roller blind, no ASR, 3-piece AMG wheels).
 
 Bud got the oil changed, replaced fuses, and replaced all the belts. If you don't have a record of when a maintenance item was done and it's fairly cheap to do,
 I always think it's a good idea to address. He also fixed problem with the door/trunk actuators that had weird behavior and replaced the fuel pump relay which
@@ -68,7 +68,7 @@ was intermittently causing problems starting the car.
 
 ### Wheels
 While it was up on the lift, Bud pointed out the damage to the front passenger side wheel. It looks like the barrel on the wheel broke in two places and was welded back together.
-This was *definitely* causing the vibration problem I had noticed on the drive home. I stopped by Wheel Specialists Inc (WSI) in Tempe and worked with Curtis on next steps.
+This was *definitely* causing the vibration problem I had noticed on the drive home. I stopped by [Wheel Specialists Inc (WSI)](http://www.wheelspecialists.com/) in Tempe and worked with Curtis on next steps.
 
 ![Wheel damage and 15mm spacers](/i/002-inspection/wheels.png){:class="img-responsive"}
 
@@ -84,5 +84,10 @@ there's almost no place which will repair this kind of damage (WSI wouldn't touc
 
 ## Thoughts
 At this point, the car is perfectly drivable and enjoyable. There are still a lot of things to fix, which can seem really overwhelming at times, but having it all documented helps.
+
+<br>
+<hr>
+<br>
+[Continue to next post: 'Upgrades and deferred maintenance'](/project/2020/06/07/upgrades.html)
 
 [Read previous post: 'Buying a classic'](/project/2019/08/04/coupe-purchase.html)
